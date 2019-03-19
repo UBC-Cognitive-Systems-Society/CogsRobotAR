@@ -1,5 +1,6 @@
-# VuforiaIoT
+# COGS Robot AR
 Continued development of the COGS robot/IoT app
+
 Goals for development:
 * Improved UI
 * Manual control of the robot
