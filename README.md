@@ -7,6 +7,10 @@ Goals for development:
 * Hololens/controller support because why not lmao
 * Performance/Technical improvements for robot code
 
+# Workshop
+* https://docs.google.com/presentation/d/1y5YldhejCxli3OsclVsJHRM1_rwA8AplMalSf0d_6Xk/edit?usp=sharing
+* To prepare the workshop, see the link [here](https://github.com/ubcemergingmedialab/VuforiaIoT/releases/tag/1.0). Note that the files here might be a bit outdated and its probably a better idea to reprepare the workshop files
+
 # Installation
 Tested with Unity 2018.2.16 installed with Vuforia 7.5
 
